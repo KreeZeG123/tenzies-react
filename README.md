@@ -16,8 +16,7 @@ Bienvenue dans le dépôt de **Tenzies**, un projet réalisé dans le cadre du c
 
 - **Lancer les dés** : Cliquez pour relancer les dés non verrouillés.
 - **Verrouillage des dés** : Cliquez sur un dé pour le verrouiller ou le déverrouiller.
-- **Victoire** : Gagnez lorsque tous les dés affichent le même nombre.
-- **Temps de jeu** : Suivez combien de temps vous mettez pour gagner (optionnel).
+- **Victoire** : Gagnez lorsque tous les dés sont verrouillés et affichent le même nombre.
 
 ## 🛠️ Technologies utilisées
 
